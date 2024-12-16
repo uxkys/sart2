@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/stoet/Experiments/sart/titlescreen.png"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="sart_stimuli2.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       id="filter6426">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.79387912"
+         id="feGaussianBlur6428" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     id="base"
+     pagecolor="#787878"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7171725"
+     inkscape:cx="135.08718"
+     inkscape:cy="-298.68227"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid853" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#000000;stroke:none;stroke-width:3.84042;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1607"
+       width="188.96606"
+       height="72.694427"
+       x="261.02368"
+       y="200.04243" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       y="87.528442"
+       x="267.76709"
+       height="62.369694"
+       width="190.97694"
+       id="rect1605"
+       style="fill:#000000;stroke:none;stroke-width:3.57614;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_missed.png"
+       style="fill:#000000;stroke:none;stroke-width:2.75043;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1603"
+       width="105.5844"
+       height="66.731094"
+       x="403.16754"
+       y="-10.465884" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_wrong_press.png"
+       y="-7.5220642"
+       x="263.95239"
+       height="52.135777"
+       width="110.63267"
+       id="rect1601"
+       style="fill:#000000;stroke:none;stroke-width:2.48855;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/instruction_real.png"
+       y="182.07961"
+       x="-206.42514"
+       height="79.378212"
+       width="193.71909"
+       id="rect1599"
+       style="fill:#000000;stroke:none;stroke-width:3.19612;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/instruction2.png"
+       style="fill:#000000;stroke:none;stroke-width:3.73495;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1597"
+       width="190.36661"
+       height="110.30795"
+       x="9.8553476"
+       y="20.402929" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/instruction1.png"
+       y="27.620518"
+       x="-206.94409"
+       height="120.92691"
+       width="186.96445"
+       id="rect1595"
+       style="fill:#000000;stroke:none;stroke-width:3.87549;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <g
+       id="g1358"
+       transform="translate(-77.042202,-61.527945)">
+      <ellipse
+         style="fill:#ffd700;stroke:none;stroke-width:0.674792;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="path879"
+         cx="147.43307"
+         cy="-59.281258"
+         rx="12.749242"
+         ry="12.337494" />
+      <path
+         id="path881"
+         style="fill:#000000;stroke:none;stroke-width:1.10317;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         d="m 141.02313,-55.359567 a 6.6319238,6.4705473 0 0 0 6.40995,4.811074 6.6319238,6.4705473 0 0 0 6.40994,-4.811074 7.9972759,7.8026762 0 0 1 -6.40994,3.137275 7.9972759,7.8026762 0 0 1 -6.40995,-3.137275 z" />
+      <g
+         id="g894"
+         transform="translate(2.7872422,-102.87377)">
+        <ellipse
+           ry="3.2531707"
+           rx="2.5454288"
+           cy="39.475246"
+           cx="141.51816"
+           id="path888"
+           style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+        <ellipse
+           style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+           id="ellipse890"
+           cx="147.77351"
+           cy="39.475246"
+           rx="2.5454288"
+           ry="3.2531707" />
+      </g>
+    </g>
+    <ellipse
+       style="fill:#ff0000;stroke:none;stroke-width:0.674792;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse896"
+       cx="102.39388"
+       cy="-120.8092"
+       rx="12.749242"
+       ry="12.337494" />
+    <path
+       id="path898"
+       style="fill:#000000;stroke:none;stroke-width:1.10317;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 95.983928,-112.07644 a 6.6319238,6.4705473 0 0 1 6.409952,-4.81107 6.6319238,6.4705473 0 0 1 6.40994,4.81107 7.9972759,7.8026762 0 0 0 -6.40994,-3.13727 7.9972759,7.8026762 0 0 0 -6.409952,3.13727 z" />
+    <g
+       id="g904"
+       transform="translate(-42.251958,-164.40171)">
+      <ellipse
+         ry="3.2531707"
+         rx="2.5454288"
+         cy="39.475246"
+         cx="141.51816"
+         id="ellipse900"
+         style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+      <ellipse
+         style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="ellipse902"
+         cx="147.77351"
+         cy="39.475246"
+         rx="2.5454288"
+         ry="3.2531707" />
+    </g>
+    <rect
+       ry="7.2282972"
+       rx="7.2282972"
+       y="-135.92595"
+       x="-215.44167"
+       height="148.69716"
+       width="201.35001"
+       id="rect924"
+       style="fill:#000000;stroke:#ff4500;stroke-width:3.96874994;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       id="text908"
+       y="-95.218346"
+       x="-212.05185"
+       style="font-size:10.4854px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:0.748957;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="fill:#fff8dc;stroke-width:0.748957"
+         y="-95.218346"
+         x="-212.05185"
+         id="tspan906"
+         sodipodi:role="line">Sustained-attention-to-response task</tspan></text>
+    <text
+       id="text912"
+       y="-107.90367"
+       x="-213.11018"
+       style="font-size:27.1375px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:1.93839;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="fill:#fff8dc;stroke-width:1.93839"
+         y="-107.90367"
+         x="-213.11018"
+         id="tspan910"
+         sodipodi:role="line">SART</tspan></text>
+    <text
+       id="text920"
+       y="-48.083904"
+       x="-211.52269"
+       style="font-size:14px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         style="fill:#fff8dc;stroke-width:1"
+         y="-48.083904"
+         x="-211.52269"
+         id="tspan918"
+         sodipodi:role="line">for PsyToolkit</tspan><tspan
+         id="tspan922"
+         style="fill:#fff8dc;stroke-width:1"
+         y="-30.583904"
+         x="-211.52269"
+         sodipodi:role="line">www.psytoolkit.org</tspan></text>
+    <g
+       transform="matrix(1.6433973,0,0,1.6433973,-424.16466,-159.40269)"
+       id="g1121"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         ry="10.093786"
+         rx="9.9852505"
+         cy="70.415253"
+         cx="236.47937"
+         inkscape:export-ydpi="248.41325"
+         inkscape:export-xdpi="248.41325"
+         inkscape:export-filename="x1.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#9acd32;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.529167;marker:none;enable-background:accumulate"
+         id="path2994" />
+      <g
+         style="fill:#808080;filter:url(#filter6426)"
+         transform="matrix(0.26458333,0,0,0.26458333,245.73773,-17.232709)"
+         id="g6353">
+        <ellipse
+           transform="matrix(0.51420653,0,0,0.50687754,43.306129,274.13064)"
+           id="path6355"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           cx="-155.12846"
+           cy="81.068062"
+           rx="27.226627"
+           ry="26.593451" />
+        <circle
+           transform="matrix(0.82202423,0,0,0.82202423,13.616467,80.71244)"
+           id="path6357"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           cx="-65.584457"
+           cy="277.35715"
+           r="4.3107152" />
+        <circle
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="path6359"
+           transform="matrix(0.82202423,0,0,0.82202423,22.222132,80.712441)"
+           cx="-65.584457"
+           cy="277.35715"
+           r="4.3107152" />
+        <path
+           sodipodi:nodetypes="cccsc"
+           inkscape:connector-curvature="0"
+           id="path6361"
+           d="m -40.946003,321.06628 c 0.24073,1.84286 2.77812,3.25113 5.8715,3.18039 3.05071,-0.0697 5.50428,-1.55126 5.72175,-3.36839 -1.64638,0.32346 -3.70675,1.35112 -5.73515,1.3975 -2.21715,0.0507 -4.09625,-0.91276 -5.8581,-1.2095 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+        <ellipse
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="path6363"
+           transform="matrix(0.55604007,0,0,0.50687754,51.947119,298.68213)"
+           cx="-155.12846"
+           cy="81.068062"
+           rx="27.226627"
+           ry="26.593451" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6365"
+           d="m -41.276733,355.78537 c -3.25891,0.0201 -6.00435,1.40298 -7.06952,3.33181 l 14.20533,-0.0877 c -1.08696,-1.9181 -3.87416,-3.26423 -7.13581,-3.24409 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m -21.523973,351.29746 c -2.72213,1.79188 -4.27141,4.44697 -4.11416,6.64475 l 11.86558,-7.81071 c -1.9563,-1.01659 -5.027,-0.62744 -7.75142,1.16596 z"
+           id="path6367"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6369"
+           d="m -41.875,346.71875 c -0.643074,1.62981 -1.353562,3.31475 -1.65625,5.125 -0.302688,1.81025 -0.168163,3.7629 0.8125,5.65625 l 2.1875,-1.125 c -0.708187,-1.36728 -0.805017,-2.67461 -0.5625,-4.125 0.242517,-1.45039 0.856524,-2.99417 1.5,-4.625 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.46607;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6371"
+           d="m -28.5,344.4375 -1.625,1.875 c 3.037003,2.61851 4.681745,3.6596 5.40625,4.34375 0.362253,0.34208 0.524036,0.55984 0.6875,0.96875 0.163464,0.40891 0.309757,1.04266 0.5,2.09375 l 2.4375,-0.4375 c -0.197937,-1.0936 -0.371801,-1.88219 -0.65625,-2.59375 -0.284449,-0.71156 -0.710488,-1.30304 -1.25,-1.8125 -1.079025,-1.01893 -2.553343,-1.89689 -5.5,-4.4375 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.46607;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6373"
+           d="m -53,321.875 -2.40625,0.53125 c 0.811965,3.60527 2.502305,5.97526 4.71875,7.84375 2.216445,1.86849 4.897957,3.30918 7.96875,5.46875 l 1.40625,-2 c -3.191407,-2.2444 -5.845358,-3.71177 -7.78125,-5.34375 -1.935892,-1.63198 -3.198545,-3.35766 -3.90625,-6.5 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.46607;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6375"
+           d="m -16.03125,320.21875 c -0.707705,3.14234 -1.970358,4.86802 -3.90625,6.5 -1.935892,1.63198 -4.589843,3.09935 -7.78125,5.34375 l 1.40625,2 c 3.070793,-2.15957 5.752305,-3.60026 7.96875,-5.46875 2.216445,-1.86849 3.906785,-4.23848 4.71875,-7.84375 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.46607;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6377"
+           d="m -53.25,316.5625 a 1.2331597,1.2331597 0 0 0 -0.96875,1.65625 c 0.340766,1.02808 0.326322,1.8689 0.1875,2.40625 -0.138822,0.53735 -0.391155,0.70204 -0.4375,0.71875 -0.04635,0.0167 -0.09421,0.0838 -0.46875,-0.3125 -0.374539,-0.39626 -0.901794,-1.29766 -1.25,-2.84375 a 1.2331597,1.2331597 0 1 0 -2.40625,0.53125 c 0.411634,1.82772 1.013745,3.12186 1.84375,4 0.830005,0.87814 2.079716,1.31432 3.125,0.9375 1.045284,-0.37682 1.68648,-1.34489 1.96875,-2.4375 0.28227,-1.09261 0.216299,-2.37444 -0.25,-3.78125 a 1.2331597,1.2331597 0 0 0 -1.34375,-0.875 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.46607;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6379"
+           d="m -15.375,315.25 a 1.2331597,1.2331597 0 0 0 -1.09375,0.8125 c -0.679623,1.74588 -0.916603,3.15174 -0.71875,4.34375 0.197853,1.19201 0.985024,2.2286 2.0625,2.5 1.077476,0.2714 2.15551,-0.15772 3,-0.90625 0.84449,-0.74853 1.507106,-1.85393 1.90625,-3.28125 a 1.2331597,1.2331597 0 1 0 -2.375,-0.65625 c -0.291691,1.04307 -0.740925,1.72562 -1.15625,2.09375 -0.415325,0.36813 -0.733479,0.38703 -0.78125,0.375 -0.04777,-0.012 -0.129469,0.0379 -0.21875,-0.5 -0.08928,-0.53789 -0.0124,-1.58564 0.5625,-3.0625 A 1.2331597,1.2331597 0 0 0 -15.375,315.25 Z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.46607;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,231.77583,-10.099339)"
+         id="g6407">
+        <ellipse
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff4500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="path6096"
+           transform="matrix(0.51420653,0,0,0.50687754,95.15376,246.47857)"
+           cx="-155.12846"
+           cy="81.068062"
+           rx="27.226627"
+           ry="26.593451" />
+        <circle
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           id="path6098"
+           transform="matrix(0.82202423,0,0,0.82202423,65.4641,53.060369)"
+           cx="-65.584457"
+           cy="277.35715"
+           r="4.3107152" />
+        <circle
+           transform="matrix(0.82202423,0,0,0.82202423,74.069765,53.06037)"
+           id="path6100"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           cx="-65.584457"
+           cy="277.35715"
+           r="4.3107152" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m 10.90163,293.41421 c 0.24073,1.84286 2.77812,3.25113 5.8715,3.18039 3.05071,-0.0697 5.50428,-1.55126 5.72175,-3.36839 -1.64638,0.32346 -3.70675,1.35112 -5.73515,1.3975 -2.21715,0.0507 -4.09625,-0.91276 -5.8581,-1.2095 z"
+           id="path6102"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccsc" />
+        <ellipse
+           transform="matrix(0.55604007,0,0,0.50687754,103.79475,271.03006)"
+           id="path6111"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff4500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           cx="-155.12846"
+           cy="81.068062"
+           rx="27.226627"
+           ry="26.593451" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff4500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           d="m 10.5709,328.1333 c -3.2589099,0.0201 -6.0043499,1.40298 -7.0695197,3.33181 l 14.2053297,-0.0877 c -1.08696,-1.9181 -3.87416,-3.26423 -7.13581,-3.24409 z"
+           id="path6113"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6118"
+           d="m 30.32366,323.64539 c -2.72213,1.79188 -4.27141,4.44697 -4.11416,6.64475 l 11.86558,-7.81071 c -1.9563,-1.01659 -5.027,-0.62744 -7.75142,1.16596 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff4500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+        <path
+           style="fill:none;stroke:#ff4500;stroke-width:2.46607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 11.10649,319.50967 c -1.2865499,3.26064 -2.5781099,6.52127 -0.88926,9.7819"
+           id="path6120"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6122"
+           d="m 22.53988,317.73115 c 5.98366,5.15912 6.21071,3.84103 6.98707,8.13041"
+           style="fill:none;stroke:#ff4500;stroke-width:2.46607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6124"
+           d="m -2.3594997,294.48326 c 1.51966999,6.74761 5.9334098,8.17276 12.1956098,12.57673"
+           style="fill:none;stroke:#ff4500;stroke-width:2.46607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#ff4500;stroke-width:2.46607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.02217,292.83177 c -1.51967,6.74761 -5.93341,8.17276 -12.19561,12.57673"
+           id="path6128"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#ff4500;stroke-width:2.46607;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -5.53545,290.79917 c 1.51968,6.74761 5.93342029,4.23459 4.3192903,-0.63519"
+           id="path6130"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6132"
+           d="m 36.51498,288.85685 c -2.50905,6.44549 2.55563,6.82685 3.9373,1.88608"
+           style="fill:none;stroke:#ff4500;stroke-width:2.46607;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/instruction1.png"
+       transform="matrix(0.82218364,0,0,0.82218365,29.487249,-34.280016)"
+       id="text1212"
+       y="84.108017"
+       x="-287.01105"
+       style="font-size:9.9711px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:230.647;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"><tspan
+         x="-287.01105"
+         y="84.108017"><tspan
+           style="stroke-width:2.84888">Instructions (page 1)
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="96.571888"><tspan
+           style="stroke-width:2.84888">
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="109.03576"><tspan
+           style="stroke-width:2.84888">In this experiment you will be presented with </tspan></tspan><tspan
+         x="-287.01105"
+         y="121.49964"><tspan
+           style="stroke-width:2.84888">the digits 1 to 9 in the center of the screen. </tspan></tspan><tspan
+         x="-287.01105"
+         y="133.96351"><tspan
+           style="stroke-width:2.84888">Your task is to press the SPACEBAR in </tspan></tspan><tspan
+         x="-287.01105"
+         y="146.42739"><tspan
+           style="stroke-width:2.84888">response to each digit, except for when the </tspan></tspan><tspan
+         x="-287.01105"
+         y="158.89127"><tspan
+           style="stroke-width:2.84888">digit is a '3'.
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="171.35514"><tspan
+           style="stroke-width:2.84888">
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="183.819"><tspan
+           style="stroke-width:2.84888">Each digit is followed by a circle with a cross, </tspan></tspan><tspan
+         x="-287.01105"
+         y="196.28287"><tspan
+           style="stroke-width:2.84888">which you can ignore.
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="208.74674"><tspan
+           style="stroke-width:2.84888">
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="221.21061"><tspan
+           style="fill:#ff4500">Press the space bar to read more.</tspan><tspan
+           style="stroke-width:2.84888">..
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="233.67447"><tspan
+           style="stroke-width:2.84888">
+</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/instruction2.png"
+       xml:space="preserve"
+       style="font-size:9.9711px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:237.119;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       x="-287.01105"
+       y="84.108017"
+       id="text1220"
+       transform="matrix(0.82218364,0,0,0.82218365,245.79651,-42.254874)"><tspan
+         x="-287.01105"
+         y="84.108017"><tspan>Instructions (page 2)
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="96.571888"><tspan>
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="109.03576"><tspan>For example, if you see the digit '1', press the </tspan></tspan><tspan
+         x="-287.01105"
+         y="121.49964"><tspan>space bar. If you see a '4' press the spacebar. </tspan></tspan><tspan
+         x="-287.01105"
+         y="133.96351"><tspan>If you see a '3', DO NOT press the space bar.
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="146.42739"><tspan>If you see a '7' press the space bar. And so on.
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="158.89127"><tspan>
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="171.35514"><tspan>Please give equal importance to both the </tspan></tspan><tspan
+         x="-287.01105"
+         y="183.819"><tspan>speed and accuracy of your responses.
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="196.28287"><tspan>
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="208.74674"><tspan
+           style="fill:#ff4500">Press the space bar to start the training block.</tspan></tspan></text>
+    <text
+       id="text1222"
+       xml:space="preserve"
+       style="font-size:9.9711px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:230.647;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       x="-287.01105"
+       y="84.108017"
+       transform="matrix(1.4040586,0,0,1.4040586,34.683906,9.4150262)"><tspan
+         x="-287.01105"
+         y="84.108017"><tspan
+           style="stroke-width:2.84888">
+</tspan></tspan><tspan
+         x="-287.01105"
+         y="96.571888"><tspan
+           style="stroke-width:2.84888">
+</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/instruction_real.png"
+       id="text1238"
+       y="188.61028"
+       x="-206.42963"
+       style="font-size:8.03637px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:2.2961;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"><tspan
+         style="stroke-width:2.2961"
+         y="188.61028"
+         x="-206.42963"
+         id="tspan1236"
+         sodipodi:role="line">Now you will start the real test block.</tspan><tspan
+         id="tspan1240"
+         style="stroke-width:2.2961"
+         y="198.65575"
+         x="-206.42963"
+         sodipodi:role="line" /><tspan
+         id="tspan1248"
+         style="stroke-width:2.2961"
+         y="208.70119"
+         x="-206.42963"
+         sodipodi:role="line">The same rules apply.</tspan><tspan
+         id="tspan1242"
+         style="stroke-width:2.2961"
+         y="218.74666"
+         x="-206.42963"
+         sodipodi:role="line" /><tspan
+         id="tspan1244"
+         style="stroke-width:2.2961"
+         y="228.79213"
+         x="-206.42963"
+         sodipodi:role="line">Please give equal importance to</tspan><tspan
+         id="tspan1252"
+         style="stroke-width:2.2961"
+         y="238.8376"
+         x="-206.42963"
+         sodipodi:role="line">both the speed and accuracy of your responses.</tspan><tspan
+         id="tspan1246"
+         style="stroke-width:2.2961"
+         y="248.88304"
+         x="-206.42963"
+         sodipodi:role="line" /><tspan
+         id="tspan1250"
+         style="fill:#ff4500;stroke-width:2.2961"
+         y="258.92853"
+         x="-206.42963"
+         sodipodi:role="line">Press the space bar to start the real test block.</tspan></text>
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_wrong_press.png"
+       transform="matrix(0.78289647,0,0,1.082509,271.05148,-172.59808)"
+       style="font-size:9.97109px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="flowRoot1254"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1256"><rect
+           style="stroke-width:0.188442"
+           y="152.2305"
+           x="-6.3353539"
+           height="99.27211"
+           width="300.22464"
+           id="rect1258" /></flowRegion><flowPara
+         style="font-weight:bold"
+         id="flowPara1260" /><flowPara
+         id="flowPara1262" /><flowPara
+         id="flowPara1264">Do <flowSpan
+   id="flowSpan1266"
+   style="font-weight:bold">not</flowSpan> press the space bar</flowPara><flowPara
+         id="flowPara1270">when you see a '3'!</flowPara></flowRoot>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_wrong_press.png"
+       id="text1274"
+       y="8.1984472"
+       x="264.08304"
+       style="font-size:18.788px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:5.36799;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"><tspan
+         style="stroke-width:5.36799"
+         y="8.1984472"
+         x="264.08304"
+         id="tspan1272"
+         sodipodi:role="line">MISTAKE</tspan></text>
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_missed.png"
+       xml:space="preserve"
+       id="flowRoot1300"
+       style="font-size:9.97109px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       transform="matrix(0.78289647,0,0,1.082509,410.88337,-175.57231)"><flowRegion
+         id="flowRegion1288"><rect
+           id="rect1286"
+           width="300.22464"
+           height="99.27211"
+           x="-6.3353539"
+           y="152.2305"
+           style="stroke-width:0.188442" /></flowRegion><flowPara
+         id="flowPara1290"
+         style="font-weight:bold" /><flowPara
+         id="flowPara1292" /><flowPara
+         id="flowPara1319">Press the space bar</flowPara><flowPara
+         id="flowPara1323">when you see any digit,</flowPara><flowPara
+         id="flowPara1593">apart from '3'!</flowPara></flowRoot>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_missed.png"
+       xml:space="preserve"
+       style="font-size:18.788px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:5.36799;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       x="403.91492"
+       y="5.2242064"
+       id="text1304"><tspan
+         sodipodi:role="line"
+         id="tspan1302"
+         x="403.91492"
+         y="5.2242064"
+         style="stroke-width:5.36799">MISTAKE</tspan></text>
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       transform="matrix(1.0661526,0,0,1.4741666,275.11662,-117.20329)"
+       style="font-size:9.97109px;line-height:0.55;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="flowRoot1337"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1327"><rect
+           style="stroke-width:0.188442;"
+           y="152.2305"
+           x="-6.3353539"
+           height="99.27211"
+           width="300.22464"
+           id="rect1325" /></flowRegion><flowPara
+         style="font-weight:bold"
+         id="flowPara1329" /><flowPara
+         id="flowPara1331" /><flowPara
+         style="font-size:6.75351px"
+         id="flowPara1335">You have completed the training block.</flowPara><flowPara
+         style="font-size:6.75351px"
+         id="flowPara1374" /><flowPara
+         style="font-size:6.75351px"
+         id="flowPara1376">Now press the space bar to continue to the real test.</flowPara></flowRoot>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       id="text1341"
+       y="109.99098"
+       x="267.49796"
+       style="font-size:25.5857px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:7.31016;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       xml:space="preserve"><tspan
+         style="stroke-width:7.31016"
+         y="109.99098"
+         x="267.49796"
+         id="tspan1339"
+         sodipodi:role="line">WELL DONE</tspan></text>
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_wrong_press.png"
+       ry="8.0892754"
+       rx="8.3592453"
+       cy="1.4595529"
+       cx="359.5332"
+       id="ellipse1276"
+       style="fill:#ff0000;stroke:none;stroke-width:0.442438;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_wrong_press.png"
+       d="m 355.33042,7.1853288 a 4.3483272,4.2425182 0 0 1 4.20278,-3.1544579 4.3483272,4.2425182 0 0 1 4.20278,3.1544579 5.2435423,5.1159498 0 0 0 -4.20278,-2.0570047 5.2435423,5.1159498 0 0 0 -4.20278,2.0570047 z"
+       style="fill:#000000;stroke:none;stroke-width:0.723311;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="path1278" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_wrong_press.png"
+       transform="matrix(0.65566605,0,0,0.65566605,264.69384,-27.122579)"
+       id="g1284">
+      <ellipse
+         style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="ellipse1280"
+         cx="141.51816"
+         cy="39.475246"
+         rx="2.5454288"
+         ry="3.2531707" />
+      <ellipse
+         ry="3.2531707"
+         rx="2.5454288"
+         cy="39.475246"
+         cx="147.77351"
+         id="ellipse1282"
+         style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    </g>
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_missed.png"
+       style="fill:#ff0000;stroke:none;stroke-width:0.442438;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1306"
+       cx="499.36508"
+       cy="-1.5146797"
+       rx="8.3592453"
+       ry="8.0892754" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_missed.png"
+       id="path1308"
+       style="fill:#000000;stroke:none;stroke-width:0.723311;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 495.1623,4.2110917 a 4.3483272,4.2425182 0 0 1 4.20278,-3.1544554 4.3483272,4.2425182 0 0 1 4.20278,3.1544554 5.2435423,5.1159498 0 0 0 -4.20278,-2.0570014 5.2435423,5.1159498 0 0 0 -4.20278,2.0570014 z" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/mistake_missed.png"
+       id="g1314"
+       transform="matrix(0.65566605,0,0,0.65566605,404.52572,-30.096813)">
+      <ellipse
+         ry="3.2531707"
+         rx="2.5454288"
+         cy="39.475246"
+         cx="141.51816"
+         id="ellipse1310"
+         style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+      <ellipse
+         style="fill:#000000;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="ellipse1312"
+         cx="147.77351"
+         cy="39.475246"
+         rx="2.5454288"
+         ry="3.2531707" />
+    </g>
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       style="fill:#ffd700;stroke:none;stroke-width:0.89652;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1360"
+       cx="441.16183"
+       cy="104.66946"
+       rx="16.938473"
+       ry="16.39143" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       id="path1362"
+       style="fill:#000000;stroke:none;stroke-width:1.46566;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 432.64564,109.87977 a 8.8110854,8.5966827 0 0 0 8.51618,6.39193 8.8110854,8.5966827 0 0 0 8.51616,-6.39193 10.625074,10.366531 0 0 1 -8.51616,4.16814 10.625074,10.366531 0 0 1 -8.51618,-4.16814 z" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1364"
+       cx="437.00641"
+       cy="99.199333"
+       rx="3.3818228"
+       ry="4.3221192" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       ry="4.3221192"
+       rx="3.3818228"
+       cy="99.199333"
+       cx="445.3172"
+       id="ellipse1366"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       ry="16.39143"
+       rx="16.938473"
+       cy="104.66946"
+       cx="441.16183"
+       id="ellipse1378"
+       style="fill:#ffd700;stroke:none;stroke-width:0.89652;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       d="m 432.64564,109.87977 a 8.8110854,8.5966827 0 0 0 8.51618,6.39193 8.8110854,8.5966827 0 0 0 8.51616,-6.39193 10.625074,10.366531 0 0 1 -8.51616,4.16814 10.625074,10.366531 0 0 1 -8.51618,-4.16814 z"
+       style="fill:#000000;stroke:none;stroke-width:1.46566;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="path1380" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       ry="4.3221192"
+       rx="3.3818228"
+       cy="99.199333"
+       cx="437.00641"
+       id="ellipse1382"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1384"
+       cx="445.3172"
+       cy="99.199333"
+       rx="3.3818228"
+       ry="4.3221192" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       ry="16.39143"
+       rx="16.938473"
+       cy="104.66946"
+       cx="441.16183"
+       id="ellipse1390"
+       style="fill:#ffd700;stroke:none;stroke-width:0.89652;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       d="m 432.64564,109.87977 a 8.8110854,8.5966827 0 0 0 8.51618,6.39193 8.8110854,8.5966827 0 0 0 8.51616,-6.39193 10.625074,10.366531 0 0 1 -8.51616,4.16814 10.625074,10.366531 0 0 1 -8.51618,-4.16814 z"
+       style="fill:#000000;stroke:none;stroke-width:1.46566;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="path1392" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       ry="4.3221192"
+       rx="3.3818228"
+       cy="99.199333"
+       cx="437.00641"
+       id="ellipse1394"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1396"
+       cx="445.3172"
+       cy="99.199333"
+       rx="3.3818228"
+       ry="4.3221192" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       style="fill:#ffd700;stroke:none;stroke-width:0.89652;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1402"
+       cx="441.16183"
+       cy="104.66946"
+       rx="16.938473"
+       ry="16.39143" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       id="path1404"
+       style="fill:#000000;stroke:none;stroke-width:1.46566;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 432.64564,109.87977 a 8.8110854,8.5966827 0 0 0 8.51618,6.39193 8.8110854,8.5966827 0 0 0 8.51616,-6.39193 10.625074,10.366531 0 0 1 -8.51616,4.16814 10.625074,10.366531 0 0 1 -8.51618,-4.16814 z" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1406"
+       cx="437.00641"
+       cy="99.199333"
+       rx="3.3818228"
+       ry="4.3221192" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_training.png"
+       ry="4.3221192"
+       rx="3.3818228"
+       cy="99.199333"
+       cx="445.3172"
+       id="ellipse1408"
+       style="fill:#000000;stroke:none;stroke-width:1.32859;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       xml:space="preserve"
+       id="flowRoot1555"
+       style="font-size:9.97109px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:2.84888;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       transform="matrix(1.1143957,0,0,1.5408722,268.48153,-40.329617)"><flowRegion
+         id="flowRegion1543"><rect
+           id="rect1541"
+           width="300.22464"
+           height="99.27211"
+           x="-6.3353539"
+           y="152.2305"
+           style="stroke-width:0.188442" /></flowRegion><flowPara
+         id="flowPara1545"
+         style="font-weight:bold" /><flowPara
+         id="flowPara1547" /><flowPara
+         id="flowPara1549">You have completed the real test</flowPara><flowPara
+         id="flowPara1551" /><flowPara
+         id="flowPara1553" /></flowRoot>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       xml:space="preserve"
+       style="font-size:24.4504px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fff8dc;stroke:none;stroke-width:6.98579;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       x="260.58725"
+       y="218.52557"
+       id="text1559"><tspan
+         sodipodi:role="line"
+         id="tspan1557"
+         x="260.58725"
+         y="218.52557"
+         style="stroke-width:6.98579">WELL DONE</tspan></text>
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       ry="16.292496"
+       rx="16.836235"
+       cy="217.76845"
+       cx="432.45847"
+       id="ellipse1561"
+       style="fill:#ffd700;stroke:none;stroke-width:0.891108;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       d="m 423.99378,222.94734 a 8.7579036,8.544795 0 0 0 8.46478,6.35335 8.7579036,8.544795 0 0 0 8.46475,-6.35335 10.560943,10.303961 0 0 1 -8.46475,4.14299 10.560943,10.303961 0 0 1 -8.46478,-4.14299 z"
+       style="fill:#000000;stroke:none;stroke-width:1.45681;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="path1563" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       ry="4.296032"
+       rx="3.3614106"
+       cy="212.3313"
+       cx="428.32822"
+       id="ellipse1565"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1567"
+       cx="436.58881"
+       cy="212.3313"
+       rx="3.3614106"
+       ry="4.296032" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#ffd700;stroke:none;stroke-width:0.891108;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1569"
+       cx="432.45847"
+       cy="217.76845"
+       rx="16.836235"
+       ry="16.292496" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       id="path1571"
+       style="fill:#000000;stroke:none;stroke-width:1.45681;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 423.99378,222.94734 a 8.7579036,8.544795 0 0 0 8.46478,6.35335 8.7579036,8.544795 0 0 0 8.46475,-6.35335 10.560943,10.303961 0 0 1 -8.46475,4.14299 10.560943,10.303961 0 0 1 -8.46478,-4.14299 z" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1573"
+       cx="428.32822"
+       cy="212.3313"
+       rx="3.3614106"
+       ry="4.296032" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       ry="4.296032"
+       rx="3.3614106"
+       cy="212.3313"
+       cx="436.58881"
+       id="ellipse1575"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#ffd700;stroke:none;stroke-width:0.891108;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1577"
+       cx="432.45847"
+       cy="217.76845"
+       rx="16.836235"
+       ry="16.292496" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       id="path1579"
+       style="fill:#000000;stroke:none;stroke-width:1.45681;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 423.99378,222.94734 a 8.7579036,8.544795 0 0 0 8.46478,6.35335 8.7579036,8.544795 0 0 0 8.46475,-6.35335 10.560943,10.303961 0 0 1 -8.46475,4.14299 10.560943,10.303961 0 0 1 -8.46478,-4.14299 z" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1581"
+       cx="428.32822"
+       cy="212.3313"
+       rx="3.3614106"
+       ry="4.296032" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       ry="4.296032"
+       rx="3.3614106"
+       cy="212.3313"
+       cx="436.58881"
+       id="ellipse1583"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       ry="16.292496"
+       rx="16.836235"
+       cy="217.76845"
+       cx="432.45847"
+       id="ellipse1585"
+       style="fill:#ffd700;stroke:none;stroke-width:0.891108;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       d="m 423.99378,222.94734 a 8.7579036,8.544795 0 0 0 8.46478,6.35335 8.7579036,8.544795 0 0 0 8.46475,-6.35335 10.560943,10.303961 0 0 1 -8.46475,4.14299 10.560943,10.303961 0 0 1 -8.46478,-4.14299 z"
+       style="fill:#000000;stroke:none;stroke-width:1.45681;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="path1587" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       ry="4.296032"
+       rx="3.3614106"
+       cy="212.3313"
+       cx="428.32822"
+       id="ellipse1589"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       style="fill:#000000;stroke:none;stroke-width:1.32057;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="ellipse1591"
+       cx="436.58881"
+       cy="212.3313"
+       rx="3.3614106"
+       ry="4.296032" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6372px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#ff4500;stroke:none;stroke-width:0.759802;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       x="-210.34833"
+       y="4.6364522"
+       id="text1161"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="-210.34833"
+         y="4.6364522"
+         style="fill:#ff4500;stroke-width:0.759802"
+         id="tspan1159">press space bar to read instructions</tspan></text>
+    <path
+       style="fill:none;stroke:#ff4500;stroke-width:1.32291665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -215.82243,-9.2595945 H -13.07275"
+       id="path1165"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;stroke-width:0.846116;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1123"
+       width="33.589958"
+       height="33.589958"
+       x="7.5461082"
+       y="-134.69456"
+       inkscape:export-filename="/home/stoet/Experiments/mask.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="14.755589"
+       rx="14.518598"
+       cy="-117.89959"
+       cx="24.341087"
+       id="ellipse1125"
+       style="fill:none;stroke:#ffffff;stroke-width:2.46665;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       inkscape:export-filename="/home/stoet/Experiments/mask.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.46665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.296823,-127.94386 20.088527,20.08853"
+       id="path1127"
+       inkscape:export-filename="/home/stoet/Experiments/mask.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1129"
+       d="m 34.38535,-127.94386 -20.088527,20.08853"
+       style="fill:none;stroke:#ffffff;stroke-width:2.46665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/stoet/Experiments/mask.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.5081px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#ff4500;stroke:#ff4500;stroke-width:1.27644;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       x="260.71155"
+       y="269.18375"
+       id="text1129"
+       inkscape:export-filename="/home/stoet/Experiments/welldone_experiment.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1127"
+         x="260.71155"
+         y="269.18375"
+         style="fill:#ffffff;stroke:none;stroke-width:1.27644">Press space bar to continue</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.846116;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1098"
+       width="33.589958"
+       height="33.589958"
+       x="9.2756939"
+       y="-92.737038"
+       inkscape:export-filename="/home/stoet/Experiments/mask_green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="14.755589"
+       rx="14.518598"
+       cy="-75.942062"
+       cx="26.070673"
+       id="ellipse1100"
+       style="fill:none;stroke:#7fff00;stroke-width:2.46665;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       inkscape:export-filename="/home/stoet/Experiments/mask_green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#7fff00;stroke-width:2.46665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.026409,-85.986333 20.088527,20.08853"
+       id="path1102"
+       inkscape:export-filename="/home/stoet/Experiments/mask_green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1104"
+       d="m 36.114936,-85.986333 -20.088527,20.08853"
+       style="fill:#7fff00;stroke:#7fff00;stroke-width:2.46665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       inkscape:export-filename="/home/stoet/Experiments/mask_green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;stroke-width:0.846116;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1106"
+       width="33.589958"
+       height="33.589958"
+       x="51.042751"
+       y="-92.905334"
+       inkscape:export-filename="/home/stoet/Experiments/mask_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="14.755589"
+       rx="14.518598"
+       cy="-76.110359"
+       cx="67.83773"
+       id="ellipse1108"
+       style="fill:none;stroke:#ff0000;stroke-width:2.46665;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+       inkscape:export-filename="/home/stoet/Experiments/mask_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.46665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.793465,-86.154629 20.088527,20.08853"
+       id="path1110"
+       inkscape:export-filename="/home/stoet/Experiments/mask_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1112"
+       d="m 77.881992,-86.154629 -20.088527,20.08853"
+       style="fill:none;stroke:#ff0000;stroke-width:2.46665;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/stoet/Experiments/mask_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

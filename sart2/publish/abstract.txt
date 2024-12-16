@@ -1,0 +1,7 @@
+The Sustained Attention to Response Task (SART) measures people's
+ability to keep a goal in mind, despite the goal related to rarely
+occuring events.
+
+The SART2 adds feedback for correct responses. When people press
+button correctly, the mask turns from white to green.
+

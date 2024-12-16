@@ -1,0 +1,143 @@
+bitmaps
+  mask
+  mask_green
+  titlescreen
+  instruction1
+  instruction2
+  instruction_real
+  mistake_wrong_press
+  mistake_missed
+  welldone_training
+  welldone_experiment
+  ready1
+  ready2
+  ready3
+
+fonts
+  feedbackfont arial 20 ## first font is the default font in feedback
+  font1 arial 48 ## this and following font sizes are used in original study as well
+  font2 arial 72
+  font3 arial 94
+  font4 arial 100
+  font5 arial 120
+
+task sart
+  keys space
+  set $current_digit &&mydigits remove first
+  set $random_font random 2 6
+  set $digit_size expression $random_font - 1 ## for report in save line
+  font $random_font
+  show text $current_digit
+  readkey 1 250
+  show bitmap mask
+  if STATUS != TIMEOUT
+    show bitmap mask_green
+    set $my_rt RT
+  fi
+  if STATUS == TIMEOUT
+    readkey 1 900
+    ## next if-block new in sart2
+    if STATUS != TIMEOUT 
+      show bitmap mask_green
+    fi
+    set $my_rt expression RT + 250
+  fi
+  ## the whole intertrial interval is 1150 ms (250 + 900)
+  set $remaining_time expression 1150 - RT
+  ## determine status of response and show feedback if necessary
+  set $mystatus 1 ## assume people respond correctly
+  if $current_digit == 3 && STATUS != TIMEOUT
+    $mystatus = 0 ## pressed when there was a 3
+    show bitmap mistake_wrong_press
+    delay 3000
+    clear -1
+    delay 500
+  fi
+  if $current_digit != 3 && STATUS == TIMEOUT
+    $mystatus = 0 ## not pressed when there was no 3
+    show bitmap mistake_missed
+    delay 3000
+    clear -1
+    delay 500
+  fi
+  if $mystatus == 1
+    delay $remaining_time ## only wait if there was no mistake
+  fi
+  ## determine trial type (1=go,0=no-go)
+  set $trial_type 1
+  if $current_digit == 3
+    set $trial_type 0
+  fi
+  save BLOCKNAME BLOCKNUMBER $trial_type $current_digit $digit_size $mystatus RT
+
+block training
+  message titlescreen
+  message instruction1
+  message instruction2
+  set &&digitrange range 1 9 
+  set &&mydigits &&digitrange times 2
+  set &&mydigits shuffle no_repeat
+  bitmap ready3
+  delay 1000
+  bitmap ready2
+  delay 1000  
+  bitmap ready1
+  delay 1000
+  clear screen
+  delay 1000
+  clear screen
+  delay 1000
+  tasklist
+     sart 18
+  end
+  feedback
+    set &totalGo       count    ; select c2 == 1 && c3 == 1
+    set &GoMistakes    count    ; select c2 == 1 && c3 == 1 && c6 == 0
+    set &GoMistakesP   perc 16  ; select c2 == 1 && c3 == 1 && c6 == 0
+    set &totalNoGo     count    ; select c2 == 1 && c3 == 0
+    set &NoGoMistakes  count    ; select c2 == 1 && c3 == 0 && c6 == 0
+    set &NoGoMistakesP perc 2   ; select c2 == 1 && c3 == 0 && c6 == 0
+    text align left
+    text -200 -200 "Results in training block:"    
+    text -200 -150 &totalGo        ; prefix "Number Go trials:" 
+    text -200 -100 &GoMistakes     ; prefix "Number Go mistakes:"
+    text -200 -50  &GoMistakesP    ; prefix "Go mistakes:" ; postfix "%"
+    text -200   0  &totalNoGo      ; prefix "Number No Go trials:" 
+    text -200  50  &NoGoMistakes   ; prefix "Number No Go mistakes:"
+    text -200 100  &NoGoMistakesP  ; prefix "No Go mistakes:" ; postfix "%"
+    text -200 150  "Press space bar to continue"
+  end
+  message welldone_training
+
+block realtest
+  message instruction_real
+  set &&digitrange range 1 9 
+  set &&mydigits &&digitrange times 25
+  set &&mydigits shuffle no_repeat
+  bitmap ready3
+  delay 1000
+  bitmap ready2
+  delay 1000  
+  bitmap ready1
+  delay 1000  
+  tasklist
+     sart 225
+  end
+  feedback
+    set &totalGo       count    ; select c2 == 2 && c3 == 1
+    set &GoMistakes    count    ; select c2 == 2 && c3 == 1 && c6 == 0
+    set &GoMistakesP   perc 200 ; select c2 == 2 && c3 == 1 && c6 == 0
+    set &totalNoGo     count    ; select c2 == 2 && c3 == 0
+    set &NoGoMistakes  count    ; select c2 == 2 && c3 == 0 && c6 == 0
+    set &NoGoMistakesP perc 25  ; select c2 == 2 && c3 == 0 && c6 == 0
+    text align left
+    text -200 -200 "Results in second block:"    
+    text -200 -150 &totalGo        ; prefix "Number Go trials:" 
+    text -200 -100 &GoMistakes     ; prefix "Number Go mistakes:"
+    text -200 -50  &GoMistakesP    ; prefix "Go mistakes:" ; postfix "%"
+    text -200   0  &totalNoGo      ; prefix "Number No Go trials:" 
+    text -200  50  &NoGoMistakes   ; prefix "Number No Go mistakes:"
+    text -200 100  &NoGoMistakesP  ; prefix "No Go mistakes:" ; postfix "%"
+    text -200 150  "Press space bar to continue"
+  end
+  message welldone_experiment
